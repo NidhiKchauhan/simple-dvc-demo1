@@ -26,3 +26,6 @@ Lets test Git Branching - Nidhi
 
 
 Abhisht here added a comment in the main branch
+
+Lets test Git Squash and merge 
+Commit 1
